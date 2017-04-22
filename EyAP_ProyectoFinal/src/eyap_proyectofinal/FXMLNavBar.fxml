@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import com.jfoenix.controls.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="TOP_CENTER" prefHeight="768.0" prefWidth="295.0" style="-fx-background-color: #00BCD4;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="223.0" fitWidth="151.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../Iconos/EyAP%20proyecto%20final/tec.png" />
+         </image>
+         <VBox.margin>
+            <Insets bottom="30.0" left="30.0" right="30.0" top="30.0" />
+         </VBox.margin></ImageView>
+      <HBox prefHeight="52.0" prefWidth="295.0">
+         <children>
+            <Pane prefHeight="62.0" prefWidth="12.0" style="-fx-background-color: #84FFFF;" />
+            <HBox alignment="CENTER_LEFT" prefHeight="69.0" prefWidth="283.0">
+               <children>
+                  <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
+                     <HBox.margin>
+                        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                     </HBox.margin>
+                     <image>
+                        <Image url="@../../../Iconos/EyAP%20proyecto%20final/ic_home_white_48dp/web/ic_home_white_48dp_2x.png" />
+                     </image>
+                  </ImageView>
+                  <Label text="Inicio" textFill="WHITE">
+                     <font>
+                        <Font name="Roboto" size="24.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets bottom="20.0" top="20.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+            </HBox>
+         </children>
+      </HBox>
+      <HBox prefHeight="52.0" prefWidth="295.0">
+         <children>
+            <Pane prefHeight="62.0" prefWidth="12.0" style="-fx-background-color: #84FFFF;" />
+            <HBox alignment="CENTER_LEFT" prefHeight="69.0" prefWidth="283.0">
+               <children>
+                  <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
+                     <HBox.margin>
+                        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                     </HBox.margin>
+                     <image>
+                        <Image url="@../../../Iconos/EyAP%20proyecto%20final/ic_book_white_48dp/web/ic_book_white_48dp_2x.png" />
+                     </image>
+                  </ImageView>
+                  <Label text="Tema 1" textFill="WHITE">
+                     <font>
+                        <Font name="Roboto" size="24.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets bottom="20.0" top="20.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+            </HBox>
+         </children>
+      </HBox>
+      <HBox prefHeight="52.0" prefWidth="295.0">
+         <children>
+            <Pane prefHeight="62.0" prefWidth="12.0" style="-fx-background-color: #84FFFF;" />
+            <HBox alignment="CENTER_LEFT" prefHeight="69.0" prefWidth="283.0">
+               <children>
+                  <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
+                     <HBox.margin>
+                        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                     </HBox.margin>
+                     <image>
+                        <Image url="@../../../Iconos/EyAP%20proyecto%20final/ic_book_white_48dp/web/ic_book_white_48dp_2x.png" />
+                     </image>
+                  </ImageView>
+                  <Label text="Tema 2" textFill="WHITE">
+                     <font>
+                        <Font name="Roboto" size="24.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets bottom="20.0" top="20.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+            </HBox>
+         </children>
+      </HBox>
+      <HBox prefHeight="52.0" prefWidth="295.0">
+         <children>
+            <Pane prefHeight="62.0" prefWidth="12.0" style="-fx-background-color: #84FFFF;" />
+            <HBox alignment="CENTER_LEFT" prefHeight="69.0" prefWidth="283.0">
+               <children>
+                  <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
+                     <HBox.margin>
+                        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                     </HBox.margin>
+                     <image>
+                        <Image url="@../../../Iconos/EyAP%20proyecto%20final/ic_book_white_48dp/web/ic_book_white_48dp_2x.png" />
+                     </image>
+                  </ImageView>
+                  <Label text="Tema 3" textFill="WHITE">
+                     <font>
+                        <Font name="Roboto" size="24.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets bottom="20.0" top="20.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+            </HBox>
+         </children>
+      </HBox>
+      <HBox prefHeight="52.0" prefWidth="295.0">
+         <children>
+            <Pane prefHeight="62.0" prefWidth="12.0" style="-fx-background-color: #84FFFF;" />
+            <HBox alignment="CENTER_LEFT" prefHeight="69.0" prefWidth="283.0">
+               <children>
+                  <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
+                     <HBox.margin>
+                        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                     </HBox.margin>
+                     <image>
+                        <Image url="@../../../Iconos/EyAP%20proyecto%20final/ic_assignment_white_48dp/web/ic_assignment_white_48dp_2x.png" />
+                     </image>
+                  </ImageView>
+                  <Label text="Examen" textFill="WHITE">
+                     <font>
+                        <Font name="Roboto" size="24.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets bottom="20.0" top="20.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+            </HBox>
+         </children>
+      </HBox>
+   </children>
+</VBox>

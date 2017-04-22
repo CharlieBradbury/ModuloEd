@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="TOP_CENTER" prefHeight="600.0" prefWidth="300.0" style="-fx-background-color: #009688;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="150.0" fitWidth="300.0" pickOnBounds="true" preserveRatio="true" />
+      <JFXButton prefHeight="60.0" prefWidth="300.0" style="-fx-background-color: #00796B;" text="Inicio" textFill="WHITE">
+         <font>
+            <Font name="Roboto" size="18.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="10.0" layoutY="160.0" prefHeight="60.0" prefWidth="300.0" text="Tema 1" textFill="WHITE">
+         <font>
+            <Font name="Roboto" size="18.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="10.0" layoutY="220.0" prefHeight="60.0" prefWidth="300.0" text="Tema 2" textFill="WHITE">
+         <font>
+            <Font name="Roboto" size="18.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="10.0" layoutY="280.0" prefHeight="60.0" prefWidth="300.0" text="Tema 3" textFill="WHITE">
+         <font>
+            <Font name="Roboto" size="18.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="10.0" layoutY="340.0" prefHeight="60.0" prefWidth="300.0" text="Examen" textFill="WHITE">
+         <font>
+            <Font name="Roboto" size="18.0" />
+         </font>
+      </JFXButton>
+   </children>
+</VBox>
