@@ -282,7 +282,7 @@
          <children>
             <ImageView fitHeight="223.0" fitWidth="151.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../../../Iconos/EyAP%20proyecto%20final/tec.png" />
+                  <Image url="@../../../Iconos/tec.png" />
                </image>
                <VBox.margin>
                   <Insets bottom="60.0" left="30.0" right="30.0" top="30.0" />
@@ -294,7 +294,7 @@
                      <children>
                         <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                            <image>
-                              <Image url="@../../../Iconos/EyAP%20proyecto%20final/ic_home_white_48dp/web/ic_home_white_48dp_2x.png" />
+                              <Image url="@../../../Iconos/ic_home_white_48dp/web/ic_home_white_48dp_2x.png" />
                            </image>
                            <HBox.margin>
                               <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
@@ -321,7 +321,7 @@
                               <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
                            </HBox.margin>
                            <image>
-                              <Image url="@../../../Iconos/EyAP%20proyecto%20final/ic_book_white_48dp/web/ic_book_white_48dp_2x.png" />
+                              <Image url="@../../../Iconos/ic_book_white_48dp/web/ic_book_white_48dp_2x.png" />
                            </image>
                         </ImageView>
                         <Label text="Tema 1" textFill="WHITE">
@@ -345,7 +345,7 @@
                      <children>
                         <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                            <image>
-                              <Image url="@../../../Iconos/EyAP%20proyecto%20final/ic_book_white_48dp/web/ic_book_white_48dp_2x.png" />
+                              <Image url="@../../../Iconos/ic_book_white_48dp/web/ic_book_white_48dp_2x.png" />
                            </image>
                            <HBox.margin>
                               <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
@@ -369,7 +369,7 @@
                      <children>
                         <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                            <image>
-                              <Image url="@../../../Iconos/EyAP%20proyecto%20final/ic_book_white_48dp/web/ic_book_white_48dp_2x.png" />
+                              <Image url="@../../../Iconos/ic_book_white_48dp/web/ic_book_white_48dp_2x.png" />
                            </image>
                            <HBox.margin>
                               <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
@@ -393,7 +393,7 @@
                      <children>
                         <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                            <image>
-                              <Image url="@../../../Iconos/EyAP%20proyecto%20final/ic_assignment_white_48dp/web/ic_assignment_white_48dp_2x.png" />
+                              <Image url="@../../../Iconos/ic_assignment_white_48dp/web/ic_assignment_white_48dp_2x.png" />
                            </image>
                            <HBox.margin>
                               <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
